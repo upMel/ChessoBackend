@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "5e2181af5b6c4989c888879f",
+        "firstName": "Sidney",
+        "lastName": "Wreight",
+        "email": "swreight0@mozilla.org",
+        "password": "KcRwv7jrVf",
+        "role": "guest"
+    },
+    {
+        
+        "firstName": "Sidney",
+        "lastName": "Wreight",
+        "email": "swreigh0@mozilla.org",
+        "password": "KcRwv7jrVf",
+        "role": "guest"
+    },
+    {
+        
+        "firstName": "Sidney",
+        "lastName": "Wreight",
+        "email": "swreight@mozilla.org",
+        "password": "KcRwv7jrVf",
+        "role": "guest"
+    },
+    {
+        "_id": "5e2181af5b6c4989c88887a0",
+        "firstName": "Gothart",
+        "lastName": "Philippard",
+        "email": "gphilippard1@theguardian.com",
+        "password": "u4I218n",
+        "role": "admin"
+    }
+]
